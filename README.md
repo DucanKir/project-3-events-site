@@ -1,13 +1,11 @@
 # project-3-events-site (team project)
 
-## Technical Requirements
-
 ## Description:
 Happening is a full-stack web application which allows users to find and attend events and people to attend them with.
 
 ![](https://i.imgur.com/nv0rgDw.png)
 
-## Brief:
+## Technical Requirements:
 * **Build a full-stack application** by making your own backend and your own front-end
 * **Use an Express API** to serve your data from a Mongo database
 * **Consume your API with a separate front-end** built with React
