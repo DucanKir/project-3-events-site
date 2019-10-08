@@ -31,7 +31,9 @@ Happening is a full-stack web application which allows users to find and attend 
 * Github 
 * Google Fonts
 
-My role: Created back end and front end for users (registration, login, profile), their interaction (following users) and adding events to user profile. Homepage. 
+My role: 
+- Created back end and front end for users (registration, login, profile), their interaction (following users) and adding events to user profile. 
+- Homepage. 
 
 ## Functionality:
 
