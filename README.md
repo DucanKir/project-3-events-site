@@ -12,7 +12,7 @@ Happening is a full-stack web application which allows users to find and attend 
 * **Have a visually impressive design** 
 * **Be deployed online** so it's publicly accessible.
 
-* Website deployed on [Github pages](https://ducankir.github.io/pacman/)
+* Website deployed on [Github pages](https://happening-sei42.herokuapp.com/#/)
 
 ## Technologies used:
 * JavaScript 
